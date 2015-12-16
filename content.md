@@ -1,10 +1,21 @@
+## Presented by dagezi
+
+- <img width="80px" class=logo src="Qmark.png"> Quipperにいます
+- 東南アジアで勉強アプリ出してます
+- Recruitの子会社になりました
+- エンジニア募集してます [Wantedly](https://www.wantedly.com/companies/quipper)
+
+
+
 # 9patchの異常な仕様
 
 あるいはなぜ私はドットを打つのをやめて
 
 Scriptを書くようになったか
 
-<img width="64px" src="Qmark.png"> dagezi@gmail.com 
+<img width="80px" class=logo src="Qmark.png">
+
+dagezi
 
 
 

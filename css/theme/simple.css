@@ -14,6 +14,10 @@ body {
   background: #ff0;
   background-color: #fff; }
 
+.reveal section img.logo {
+    border: 0px none #000;
+}
+
 .reveal {
   font-family: "Lato", sans-serif;
   font-size: 36px;
